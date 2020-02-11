@@ -5,6 +5,6 @@ bookmarks sync
 
 ```
 Account: lecymeng
-Token: 9cee7be3ce6290db21b537ba91694d5c76f46de6
+Token: ****************************************
 Path: Bookmarks/config.json
 ```
